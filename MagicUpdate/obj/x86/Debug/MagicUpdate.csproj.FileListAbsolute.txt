@@ -1,0 +1,9 @@
+D:\Personal Project\MagicUpdate\MagicUpdate\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Personal Project\MagicUpdate\MagicUpdate\obj\x86\Debug\MagicUpdate.frmComputeHash.resources
+D:\Personal Project\MagicUpdate\MagicUpdate\obj\x86\Debug\MagicUpdate.Properties.Resources.resources
+D:\Personal Project\MagicUpdate\MagicUpdate\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Personal Project\MagicUpdate\MagicUpdate\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Personal Project\MagicUpdate\MagicUpdate\bin\Debug\MagicUpdate.exe
+D:\Personal Project\MagicUpdate\MagicUpdate\bin\Debug\MagicUpdate.pdb
+D:\Personal Project\MagicUpdate\MagicUpdate\obj\x86\Debug\MagicUpdate.exe
+D:\Personal Project\MagicUpdate\MagicUpdate\obj\x86\Debug\MagicUpdate.pdb
