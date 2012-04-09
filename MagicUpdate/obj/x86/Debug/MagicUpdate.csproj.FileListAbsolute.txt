@@ -7,3 +7,5 @@ D:\Personal Project\MagicUpdate\MagicUpdate\bin\Debug\MagicUpdate.exe
 D:\Personal Project\MagicUpdate\MagicUpdate\bin\Debug\MagicUpdate.pdb
 D:\Personal Project\MagicUpdate\MagicUpdate\obj\x86\Debug\MagicUpdate.exe
 D:\Personal Project\MagicUpdate\MagicUpdate\obj\x86\Debug\MagicUpdate.pdb
+D:\Personal Project\Git\MagicUpdate\MagicUpdate\obj\x86\Debug\MagicUpdate.exe
+D:\Personal Project\Git\MagicUpdate\MagicUpdate\obj\x86\Debug\MagicUpdate.pdb
