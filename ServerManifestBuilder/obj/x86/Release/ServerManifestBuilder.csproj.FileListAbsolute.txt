@@ -1,0 +1,9 @@
+D:\work\IMCS\IMCS-PlusVersion\ServerManifestBuilder\bin\Release\ServerManifestBuilder.exe
+D:\work\IMCS\IMCS-PlusVersion\ServerManifestBuilder\bin\Release\ServerManifestBuilder.pdb
+D:\work\IMCS\IMCS-PlusVersion\ServerManifestBuilder\obj\x86\Release\ResolveAssemblyReference.cache
+D:\work\IMCS\IMCS-PlusVersion\ServerManifestBuilder\obj\x86\Release\ServerManifestBuilder.frmMain.resources
+D:\work\IMCS\IMCS-PlusVersion\ServerManifestBuilder\obj\x86\Release\ServerManifestBuilder.Properties.Resources.resources
+D:\work\IMCS\IMCS-PlusVersion\ServerManifestBuilder\obj\x86\Release\GenerateResource.read.1.tlog
+D:\work\IMCS\IMCS-PlusVersion\ServerManifestBuilder\obj\x86\Release\GenerateResource.write.1.tlog
+D:\work\IMCS\IMCS-PlusVersion\ServerManifestBuilder\obj\x86\Release\ServerManifestBuilder.exe
+D:\work\IMCS\IMCS-PlusVersion\ServerManifestBuilder\obj\x86\Release\ServerManifestBuilder.pdb

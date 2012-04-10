@@ -1,22 +1,20 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Linq;
 using System.Windows.Forms;
 
-namespace MagicUpdate
+namespace ServerManifestBuilder
 {
     static class Program
     {
         /// <summary>
-        /// The main entry point for the application.
+        /// 应用程序的主入口点。
         /// </summary>
         [STAThread]
-        static void Main(String[] args)
+        static void Main()
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Module.CommandLine = args[0];
-            Application.Run(new frmAutoUpDate());
+            Application.Run(new frmMain());
         }
     }
 }

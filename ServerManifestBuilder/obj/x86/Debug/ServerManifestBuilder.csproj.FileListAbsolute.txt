@@ -1,0 +1,18 @@
+D:\work\IMCS\IMCS-PlusVersion\ServerManifestBuilder\bin\Debug\ServerManifestBuilder.exe
+D:\work\IMCS\IMCS-PlusVersion\ServerManifestBuilder\bin\Debug\ServerManifestBuilder.pdb
+D:\work\IMCS\IMCS-PlusVersion\ServerManifestBuilder\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\work\IMCS\IMCS-PlusVersion\ServerManifestBuilder\obj\x86\Debug\ServerManifestBuilder.frmMain.resources
+D:\work\IMCS\IMCS-PlusVersion\ServerManifestBuilder\obj\x86\Debug\ServerManifestBuilder.Properties.Resources.resources
+D:\work\IMCS\IMCS-PlusVersion\ServerManifestBuilder\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\work\IMCS\IMCS-PlusVersion\ServerManifestBuilder\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\work\IMCS\IMCS-PlusVersion\ServerManifestBuilder\obj\x86\Debug\ServerManifestBuilder.exe
+D:\work\IMCS\IMCS-PlusVersion\ServerManifestBuilder\obj\x86\Debug\ServerManifestBuilder.pdb
+D:\Personal Project\Git\MagicUpdate\ServerManifestBuilder\bin\Debug\ServerManifestBuilder.exe
+D:\Personal Project\Git\MagicUpdate\ServerManifestBuilder\bin\Debug\ServerManifestBuilder.pdb
+D:\Personal Project\Git\MagicUpdate\ServerManifestBuilder\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Personal Project\Git\MagicUpdate\ServerManifestBuilder\obj\x86\Debug\ServerManifestBuilder.frmMain.resources
+D:\Personal Project\Git\MagicUpdate\ServerManifestBuilder\obj\x86\Debug\ServerManifestBuilder.Properties.Resources.resources
+D:\Personal Project\Git\MagicUpdate\ServerManifestBuilder\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Personal Project\Git\MagicUpdate\ServerManifestBuilder\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Personal Project\Git\MagicUpdate\ServerManifestBuilder\obj\x86\Debug\ServerManifestBuilder.exe
+D:\Personal Project\Git\MagicUpdate\ServerManifestBuilder\obj\x86\Debug\ServerManifestBuilder.pdb

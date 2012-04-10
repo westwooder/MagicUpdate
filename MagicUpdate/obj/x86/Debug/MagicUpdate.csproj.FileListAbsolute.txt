@@ -9,3 +9,11 @@ D:\Personal Project\MagicUpdate\MagicUpdate\obj\x86\Debug\MagicUpdate.exe
 D:\Personal Project\MagicUpdate\MagicUpdate\obj\x86\Debug\MagicUpdate.pdb
 D:\Personal Project\Git\MagicUpdate\MagicUpdate\obj\x86\Debug\MagicUpdate.exe
 D:\Personal Project\Git\MagicUpdate\MagicUpdate\obj\x86\Debug\MagicUpdate.pdb
+D:\Personal Project\Git\MagicUpdate\MagicUpdate\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Personal Project\Git\MagicUpdate\MagicUpdate\obj\x86\Debug\MagicUpdate.frmAutoUpDate.resources
+D:\Personal Project\Git\MagicUpdate\MagicUpdate\obj\x86\Debug\MagicUpdate.Properties.Resources.resources
+D:\Personal Project\Git\MagicUpdate\MagicUpdate\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Personal Project\Git\MagicUpdate\MagicUpdate\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Personal Project\Git\MagicUpdate\MagicUpdate\bin\Debug\MagicUpdate.exe.config
+D:\Personal Project\Git\MagicUpdate\MagicUpdate\bin\Debug\MagicUpdate.exe
+D:\Personal Project\Git\MagicUpdate\MagicUpdate\bin\Debug\MagicUpdate.pdb
