@@ -17,3 +17,6 @@ D:\Personal Project\Git\MagicUpdate\MagicUpdate\obj\x86\Debug\GenerateResource.w
 D:\Personal Project\Git\MagicUpdate\MagicUpdate\bin\Debug\MagicUpdate.exe.config
 D:\Personal Project\Git\MagicUpdate\MagicUpdate\bin\Debug\MagicUpdate.exe
 D:\Personal Project\Git\MagicUpdate\MagicUpdate\bin\Debug\MagicUpdate.pdb
+D:\Git\MagicUpdate\MagicUpdate\bin\Debug\MagicUpdate.exe.config
+D:\Git\MagicUpdate\MagicUpdate\obj\x86\Debug\MagicUpdate.exe
+D:\Git\MagicUpdate\MagicUpdate\obj\x86\Debug\MagicUpdate.pdb

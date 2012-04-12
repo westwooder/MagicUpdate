@@ -7,6 +7,9 @@ using System.Diagnostics;
 using System.Collections.Generic;
 namespace MagicUpdate
 {
+    /// <summary>
+    /// 自动更新核心类
+    /// </summary>
     public static class Module
     {
 
@@ -98,12 +101,6 @@ namespace MagicUpdate
                         //verify the file version 
                         FileVersionInfo fv = FileVersionInfo.GetVersionInfo(RealFileName);
                         isToUpgrade = (GetVersion(fileVersionValue) != GetVersion(fv.FileMajorPart + "." + fv.FileMinorPart + "." + fv.FileBuildPart + "." + fv.FilePrivatePart));
-
-                        ////check if version not upgrade then check last modified 
-                        //if (!isToUpgrade)
-                        //{
-                        //    isToUpgrade = (LastModified > File.GetLastWriteTimeUtc(RealFileName));
-                        //}
                     }
 
                     if (isToUpgrade)

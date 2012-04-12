@@ -13,10 +13,12 @@ namespace MagicUpdate
 {
     public partial class frmAutoUpDate : Form
     {
+        #region 方法
         public frmAutoUpDate()
         {
             InitializeComponent();
         }
+
 
         private void UpdateComplete()
         {
@@ -44,8 +46,10 @@ namespace MagicUpdate
             Application.DoEvents();
         }
 
+        #endregion
 
 
+        #region 事件
         private void frmAutoUpDate_Shown(object sender, EventArgs e)
         {
             Module.InitClass();
@@ -68,19 +72,20 @@ namespace MagicUpdate
                 {
                     ShowMessage(lblNotice, "发现新版本");
 
-                   
-                        Module.KillAppExe();
-                        Module.onDownLoadFileStart += new Module.DownLoadFileStart(Module_onDownLoadFileStart);
-                        ShowMessage(lblDetail, "正在执行软件更新");
-                        this.pbProcess.Maximum = iNeedUpdateFileCount;
-                        Module.ProcessUpdate();
-                        UpdateComplete();
-                   
+
+                    Module.KillAppExe();
+                    Module.onDownLoadFileStart += new Module.DownLoadFileStart(Module_onDownLoadFileStart);
+                    ShowMessage(lblDetail, "正在执行软件更新");
+                    this.pbProcess.Maximum = iNeedUpdateFileCount;
+                    Module.ProcessUpdate();
+                    UpdateComplete();
+
 
                 }
             }
             Environment.Exit(1);
-        }
+        } 
+        #endregion
 
 
 
